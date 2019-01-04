@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Blog entry one"
+title:  "First Creation"
 date:   2018-12-31 
 categories: blog
 ---
-
-First Creation
-
 
 My undergraduate curriculum gave me an exposure to the field of electronics and communication but hardware could never hold my interest. My zeal to learn was produced by programming.The interest invoked here pushed me to learn programming on my own through the platform of MOOCS along with my ongoing electronics curriculum. I completed a few courses on python 
 
