@@ -21,6 +21,6 @@ One of the first things I ever made was through this courses. I created the game
 The game can be played here 
 http://www.codeskulptor.org/#user45_ZEp2Z6ZvwH_1.py
 
-
+![Image](https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png)
 
 Code is cheked in at https://github.com/parihardeepanshu/Pong/blob/master/pong.py.
