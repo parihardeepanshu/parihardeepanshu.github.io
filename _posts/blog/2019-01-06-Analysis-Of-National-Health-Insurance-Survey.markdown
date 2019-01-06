@@ -34,17 +34,17 @@ As a team we wanted to explore the following aspects of the data set:
 
 Based on initial exploratory data analysis , we as a team decided to form certain surrogate variables to quantify our findings.
 
-1. For meditation and relaxation techniques :
+For meditation and relaxation techniques :
 <div class ="honeycombpic">
 <img src="https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/assets/img/nhis-yoga.png?raw=true"/>
 </div> 
 
-2. For sleep quality:
-<div class ="honeycombpic">
+For sleep quality:
+<div class ="honeycombpic2">
 <img src="https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/assets/img/nhis-sleep.png?raw=true"/>
 </div>
 
-3. For affordability:
+For affordability:
    
    Based on the survey responses, we came across certain measures to detect affordability of dental care and eyeglasses. So we defined a    new feature called affordability which could represent the affordability of the two responses as one . This feature has values 0,1 or    2 based on the person's ability to afford neither , one or both of eyeglasses and dental care. Then, we narrowed the number of          factors affecting affordability by going through the code book and filtering out columns related to vision and dental care for          building the model. As the classes we were trying to predict were more than two, we tried a multinomial logistic regression algorithm    to fit a model based on certain explanatory variables.
 
