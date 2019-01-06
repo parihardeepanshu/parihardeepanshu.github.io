@@ -73,5 +73,5 @@ in the past year.
 
 More interesting plots and observations can be found in our ppt [click][link1] and project report. [click][link2]
 
-[link1] :https://github.com/parihardeepanshu/nhis5110/blob/master/NHIS_Presentation.pptx
-[link2] :https://github.com/parihardeepanshu/nhis5110/blob/master/NHIS_Report.pdf
+[link1]:https://github.com/parihardeepanshu/nhis5110/blob/master/NHIS_Presentation.pptx
+[link2]:https://github.com/parihardeepanshu/nhis5110/blob/master/NHIS_Report.pdf
