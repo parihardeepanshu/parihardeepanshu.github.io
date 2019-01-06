@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Creation"
-date:   2018-12-31
+date:   2018-12-31 18:00:00
 categories: blog
 featured: true
 featured_image: "../../assets/img/project.png"
@@ -20,11 +20,12 @@ One on MATLAB
 One of the first things I ever made was through this courses. I created the game of ping pong. It was made on the codeskulptor platform created by professor Scott Rixner who was offering the course. 
 
 The game can be played here 
+
 [Play Here][game]
 
 ![Image](https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png)
 
-Code is checked in at [click here][checkin]
+Code is checked in [click here][checkin]
 
 [python1]: https://www.coursera.org/account/accomplishments/certificate/7F4VTA8AJZ
 [python2]: https://www.coursera.org/account/accomplishments/certificate/5TXPYNYVXA
