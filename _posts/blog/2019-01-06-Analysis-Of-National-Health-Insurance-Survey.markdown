@@ -61,11 +61,11 @@ Some interesting results were :
 
 4. The Sleepscore devised using the sleep information was plotted with other variables in the dataset giving interesting results about      the correlation between them. For example,
 
-  (a) Factors such as marital status was correlated with the sleep score. People who were married had a better sleep score than people         2wwho were either divorced, widowed or separated.
+   Factors such as marital status was correlated with the sleep score. People who were married had a better sleep score than people         2wwho were either divorced, widowed or separated.
  
-  (b) There was no correlation between smoking or alcohol habits and the sleep score.
+   There was no correlation between smoking or alcohol habits and the sleep score.
  
-  (c) We found correlation between the citizenship status of an individual and his/her sleep score.
+   We found correlation between the citizenship status of an individual and his/her sleep score.
 
 5. Private plans were the most used among all health care insurance plans.In those plans PPO (employer -provided health insurance)          plans dominated all others.
 
