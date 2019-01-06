@@ -23,7 +23,7 @@ The game can be played here
 
 [Play Here][game]
 <div class ="honeycombpic">
-   <img src="(https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png" alt="Game">
+<img src="(https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png" alt="Game">
 </div>
 
 ![Image](https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png)
