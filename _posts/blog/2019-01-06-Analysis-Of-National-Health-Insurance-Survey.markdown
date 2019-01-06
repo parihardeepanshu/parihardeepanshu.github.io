@@ -55,24 +55,24 @@ Some interesting results were :
 1. The negative emotion score was plotted against yoga and meditation separately to analyze the distribution of frequencies of emotion     scores in each of these categories. It was observed that more participants had higher psychological distress level in the non-yoga
   and non-meditation participating groups.
   
-2. The chi square test between the frequency of feelings reported vs meditation and yoga (separate), returned a very low p-value,           confirming that they are related.
+2. The chi square test between the frequency of feelings reported vs meditation and yoga (separate), returned a very low p-value,          confirming that they are related.
 
 3. Only 62% of the United States population sleeps healthy amount of hours on average. i.e. between 7 and 9 hours.
 
 4. The Sleepscore devised using the sleep information was plotted with other variables in the dataset giving interesting results about      the correlation between them. For example,
 
- (a)Factors such as marital status was correlated with the sleep score. People who were married had a better sleep score than people who     were either divorced, widowed or separated.
+(a)Factors such as marital status was correlated with the sleep score. People who were married had a better sleep score than people who     were either divorced, widowed or separated.
  
- (b)There was no correlation between smoking or alcohol habits and the sleep score.
+(b)There was no correlation between smoking or alcohol habits and the sleep score.
  
- (c)We found correlation between the citizenship status of an individual and his/her sleep score.
+(c)We found correlation between the citizenship status of an individual and his/her sleep score.
  
-5. Private plans were the most used among all health care insurance plans.In those plans PPO (employer -provided health insurance) plans    dominated all others.
+5. Private plans were the most used among all health care insurance plans.In those plans PPO (employer -provided health insurance)          plans dominated all others.
 
-6.The people under PPO plans were not confident in their ability to find affordable healthcare plans on their own.
+6. The people under PPO plans were not confident in their ability to find affordable healthcare plans on their own.
 
-7.High costs and loss of job/change of employers were the leading factors for being uninsured
-  in the past year.
+7. High costs and loss of job/change of employers were the leading factors for being uninsured
+   in the past year.
 
 More interesting plots and observations can be found in our ppt [click][link1] and project report. [click][link2]
 
