@@ -21,7 +21,7 @@ The game can be played here
 [Play Here][game]
 
 <div class ="honeycombpic">
-<img src="https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png"/>
+<img src="https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png?raw=true"/>
 </div>
 
 Code is checked in [click here][checkin]
