@@ -23,6 +23,8 @@ The game can be played here
 
 [Play Here][game]
 
+<img src="(https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png" alt="Game">
+
 ![Image](https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png)
 
 Code is checked in [click here][checkin]
