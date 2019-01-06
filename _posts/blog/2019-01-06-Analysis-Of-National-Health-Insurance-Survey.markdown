@@ -74,13 +74,13 @@ Some interesting results were :
 7. High costs and loss of job/change of employers were the leading factors for being uninsured
    in the past year.
 
-More interesting plots and observations can be found in our ppt [click][link1] and project report. [click][link2]
+More interesting plots and observations can be found in our ppt [(click)][link1] and project report. [(click)][link2]
 
 [link1]:https://github.com/parihardeepanshu/nhis5110/blob/master/NHIS_Presentation.pptx
 [link2]:https://github.com/parihardeepanshu/nhis5110/blob/master/NHIS_Report.pdf
 
 ##### Code:
 
-Git Link [click][link3]
+Git Link [(click)][link3]
 
 [link3]:https://github.com/parihardeepanshu/nhis5110
