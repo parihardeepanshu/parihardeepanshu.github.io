@@ -19,11 +19,10 @@ One of the first things I ever made was through this courses. I created the game
 The game can be played here 
 
 [Play Here][game]
+
 <div class ="honeycombpic">
 <img src="https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png">
 </div>
-
-![Image](https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png)
 
 Code is checked in [click here][checkin]
 
