@@ -3,9 +3,6 @@ layout: post
 title:  "First Creation"
 date:   2018-12-31 18:00:00
 categories: blog
-featured: true
-featured_image: "../../assets/img/project.png"
-tags: design
 ---
 My undergraduate curriculum gave me an exposure to the field of electronics and communication but hardware could never hold my interest. My zeal to learn was produced by programming.The interest invoked here pushed me to learn programming on my own through the platform of MOOCS along with my ongoing electronics curriculum. I completed a few courses on python 
 
@@ -23,7 +20,7 @@ The game can be played here
 
 [Play Here][game]
 <div class ="honeycombpic">
-<img src="(https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png" alt="Game">
+<img src="https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png">
 </div>
 
 ![Image](https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png)
