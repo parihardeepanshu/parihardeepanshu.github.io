@@ -22,8 +22,9 @@ One of the first things I ever made was through this courses. I created the game
 The game can be played here 
 
 [Play Here][game]
-
-<img src="(https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png" alt="Game">
+<div class ="honeycombpic">
+   <img src="(https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png" alt="Game">
+</div>
 
 ![Image](https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png)
 
