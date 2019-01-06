@@ -30,7 +30,7 @@ One of the first things I ever made was through this courses. I created the game
 <img src="https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png?raw=true"/>
 </div>
 
-##### Code 
+##### Code:
 
 [click][checkin]
 
