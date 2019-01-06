@@ -2,7 +2,7 @@
 layout: post
 title:  "First Creation"
 date:   2018-12-31
-categories: project
+categories: blog
 featured: true
 featured_image: "../../assets/img/project.png"
 tags: design
@@ -31,4 +31,4 @@ Code is checked in at [click here][checkin]
 [matlab]: https://www.coursera.org/account/accomplishments/certificate/9Y77AW8YER
 [game]:http://www.codeskulptor.org/#user45_ZEp2Z6ZvwH_1.py
 [checkin]:https://github.com/parihardeepanshu/Pong/blob/master/pong.py
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+
