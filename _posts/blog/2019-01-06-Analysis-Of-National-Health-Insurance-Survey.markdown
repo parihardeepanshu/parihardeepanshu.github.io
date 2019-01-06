@@ -35,12 +35,12 @@ As a team we wanted to explore the following aspects of the data set:
 Based on initial exploratory data analysis , we as a team decided to form certain surrogate variables to quantify our findings.
 
 1. For meditation and relaxation techniques :
-    <div class ="honeycombpic">
+<div class ="honeycombpic">
 <img src="https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/assets/img/nhis-yoga.png?raw=true"/>
 </div> 
 
 2. For sleep quality:
-   <div class ="honeycombpic">
+<div class ="honeycombpic">
 <img src="https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/assets/img/nhis-sleep.png?raw=true"/>
 </div>
 
