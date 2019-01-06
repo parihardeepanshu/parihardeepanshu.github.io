@@ -66,8 +66,6 @@ Some interesting results were :
   (b) There was no correlation between smoking or alcohol habits and the sleep score.
  
   (c) We found correlation between the citizenship status of an individual and his/her sleep score.
-
-
 5. Private plans were the most used among all health care insurance plans.In those plans PPO (employer -provided health insurance)          plans dominated all others.
 
 6. The people under PPO plans were not confident in their ability to find affordable healthcare plans on their own.
