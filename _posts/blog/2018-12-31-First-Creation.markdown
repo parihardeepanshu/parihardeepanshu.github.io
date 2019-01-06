@@ -8,28 +8,31 @@ My undergraduate curriculum gave me an exposure to the field of electronics and 
 
  1.Programming for everybody(University of Michigan)
 
-##### [click here][python1]
+##### [certificate][python1]
 
  2.Interactive Programming in Python(Rice University)
 
-##### [click here][python2]
+##### [certificate][python2]
 
 One on MATLAB
 
-1.[Introduction to Programming with MATLAB(Vanderbilt University)]
+1.Introduction to Programming with MATLAB(Vanderbilt University)
 
-##### [click here][matlab]
+##### [certificate][matlab]
 One of the first things I ever made was through this courses. I created the game of ping pong. It was made on the codeskulptor platform created by professor Scott Rixner who was offering the course. 
 
-The game can be played here 
 
+##### Game:
+ 
  [Play Here][game]
  
 <div class ="honeycombpic">
 <img src="https://github.com/parihardeepanshu/parihardeepanshu.github.io/blob/master/Pong.png?raw=true"/>
 </div>
 
-Code [click here][checkin]
+##### Code 
+
+[click][checkin]
 
 [python1]: https://www.coursera.org/account/accomplishments/certificate/7F4VTA8AJZ
 [python2]: https://www.coursera.org/account/accomplishments/certificate/5TXPYNYVXA
